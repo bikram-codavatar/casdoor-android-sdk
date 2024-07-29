@@ -73,5 +73,4 @@ Hints:
    then call `requestOauthAccessToken()` and parse out jwt token.
 
 # Example
-
 See at: https://github.com/casdoor/casdoor-android-example
