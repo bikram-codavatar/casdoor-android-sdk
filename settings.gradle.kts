@@ -20,5 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Casdoor demo"
-include(":app")
 include(":casdoor")
