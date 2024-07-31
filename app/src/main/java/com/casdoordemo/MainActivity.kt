@@ -10,8 +10,8 @@ import androidx.activity.result.ActivityResult
 import androidx.activity.result.ActivityResultCallback
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
-import com.casdoor.Casdoor
-import com.casdoor.CasdoorConfig
+import com.casdoordemo.casdoor.Casdoor
+import com.casdoordemo.casdoor.CasdoorConfig
 
 class MainActivity : AppCompatActivity() {
     private var casdoor: Casdoor? = null
